@@ -65,6 +65,8 @@ puts "the last number of this range is " + a.last.to_s
 puts "the max number of this range is " + a.max.to_s
 puts "the min number of this range is " + a.min.to_s
 
+
+
 # .last => returns the last object in range
 # .max => returns the maximum value in range
 # .min => returns the minimum value in range
